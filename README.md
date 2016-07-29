@@ -1,6 +1,8 @@
 # Important Group Links
 
-![Group Logo](./norfolk-ds-logo2.png?raw=true)
+| | |
+|---|---|
+| ![Group Logo](./norfolk-ds-logo2.png?raw=true)  | **Norfolk Data Science is**: A group of professionals in Norfolk, VA building skills in the field of data science through speakers, tutorials, and hands-on data projects for social good. |
 
 ## Admins Email
 NorfolkDataSci@gmail.com
