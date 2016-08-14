@@ -10,7 +10,7 @@ NorfolkDataSci@gmail.com
 If you just want to attend meetings, then signing up through meetup is all you need to do. Please send an email to this address if you're interested in joining and participating on GitHub, Trello, Slack, or Twitter. 
 
 ## Meetup Website
-https://meetup.com/Norfolk-Data-Science
+https://meetup.com/NorfolkDataSci
 
 If you just want to attend meetings, then signing up through MeetUp is all you need to do.
 
